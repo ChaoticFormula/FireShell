@@ -53,16 +53,19 @@ The client uses Windows native HTTP API (`WinHTTP`) to perform a secure HTTPS GE
 
 <table>
   <tr>
-    <td><video controls width="550" src="./public/images/preview.mp4" alt="Demo Preview"></video></td>
+    <td><video controls width="550" src="" alt=""></video></td>
   </tr>
   <tr>
-    <td><img src="./img/1.png" alt="Initial Connection Log" width="550"></td>
+    <td><img src="./img/1.png" alt="Command ShellRunning Over Socket " width="550"></td>
   </tr>
   <tr>
-    <td><img src="./img/2.png" alt="Successful IP Fetch from Firebase" width="550"></td>
+    <td><img src="./img/2.png" alt="Task Manager" width="550"></td>
   </tr>
   <tr>
-    <td><img src="./img/3.png" alt="Command Shell Running Over Socket" width="550"></td>
+    <td><img src="./img/3.png" alt="Start FireShell" width="550"></td>
+  </tr>
+  <tr>
+    <td><img src="./img/Termux.jpg" alt="Successful....." width="550"></td>
   </tr>
 </table>
 
