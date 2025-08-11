@@ -43,7 +43,7 @@ The client uses Windows native HTTP API (`WinHTTP`) to perform a secure HTTPS GE
 
 * The client waits for the shell process to exit (which might happen if the remote connection closes).
 
-* All important actions, errors, and status messages are logged locally to a file (`C:\temp\tampa.txt`) with timestamps for debugging and auditing.
+* All important actions, errors, and status messages are logged locally to a file (`C:\temp\wooh.txt`) with timestamps for debugging and auditing.
 
 * If the connection ends or fails, the client automatically attempts to reconnect, fetching the latest IP address again.
 
