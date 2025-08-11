@@ -17,7 +17,7 @@ The client uses Windows native HTTP API (`WinHTTP`) to perform a secure HTTPS GE
 * The Firebase URL typically looks like:
   `https://your-project-id.firebaseio.com/ip.json`
 
-* Upon successful retrieval, the client parses the JSON response to extract the IP string (e.g., `"192.168.1.100"`).
+* Upon successful retrieval, the client parses the JSON response to extract the IP string (e.g., `"192.xxx.y.zzz"`).
 
 * If the IP address has changed since the last fetch, the client updates its internal IP and logs the change.
 
