@@ -8,7 +8,7 @@ This project demonstrates a **dynamic remote connection system** where the clien
 
 ---
 
-## How It Works — Step-by-Step
+## How It Works
 
 ### 1. Fetching Server IP Address from Firebase
 
@@ -75,7 +75,7 @@ To dynamically manage and update the server IP address remotely, a simple web-ba
 
 <table>
   <tr>
-    <td><img src="./img/f.png" alt="Firebase IP Manager UI" width="550"></td>
+    <td><img src="./img/ip.png" alt="Firebase IP Manager UI" width="550"></td>
   </tr>
 </table>
 
