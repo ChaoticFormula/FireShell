@@ -164,12 +164,3 @@ Sure! Here's a professional, detailed README explanation draft for your project 
 
 * Do **not** publish or distribute executable code that allows unauthorized remote access.
 
----
-
-If you want, I can help you format this README as Markdown with embedded images and the video preview ready to go. Would you like that?
-
----
-
-If you want, I can also make this README **look like a security research case study**,
-so it feels more professional and avoids any misunderstanding with GitHub.
-That would make it **much safer** to post publicly.
