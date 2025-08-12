@@ -142,21 +142,7 @@ Once the client connects, you’ll receive a remote shell prompt through which y
 
 ---
 
-## ⚠ Legal & Ethical Note
-
-This kind of software can be **illegal** if used without explicit permission.
-It should only be run in **controlled lab environments** such as:
-
-* Virtual Machines
-* Isolated test networks
-* Penetration testing scenarios with client consent
-
-Distributing functional code may violate **GitHub’s Acceptable Use Policy** and local laws.
-Sure! Here's a professional, detailed README explanation draft for your project — no source code included, just a thorough explanation of how it works plus your Firebase IP update HTML overview, and how to test with netcat/nc. I also included your images section exactly as you described.
-
----
-
-## Important Notes
+## ⚠ Important Notes
 
 * This project is intended for **educational use only** and should only be used in environments where you have explicit permission to operate such software.
 
